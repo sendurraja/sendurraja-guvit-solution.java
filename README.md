@@ -1,1 +1,1 @@
-# sendurraja-guvit-solution.java
+# sendurraja/guvit/solution.java
